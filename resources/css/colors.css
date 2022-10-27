@@ -1,0 +1,19 @@
+.macronutriente{
+    background-color: #c7c7c78c;
+  }
+ .micronutriente{
+    background-color: #c9c9c98c;
+ }
+.send{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 0.5rem;
+}
+.send_g{
+   margin: 0.5rem;
+}
+.send_back{
+   margin: 0.5rem;
+   
+}
